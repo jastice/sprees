@@ -40,6 +40,7 @@ Here is a list of projects that you could contribute to during the spree:
 | [sbt-github-release] - publish release notes on Github   | [@laughedelic]                   |
 | [sbt-publish-more] - publish to several repositories     | [@laughedelic]                   |
 | [sbt-notifications] - native OS notifications from sbt   | [@laughedelic]                   |
+| [intellij-scala] - Scala plugin for IntelliJ IDEA        | [@jastice]
 | add your project here!                                   |                                  |
  
 Who will be leading the Scala Open Source Spree?
